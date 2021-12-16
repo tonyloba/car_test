@@ -1,1 +1,1 @@
-Testing function using CHAI library.
+Testing function shouldBuyCar using CHAI library.
