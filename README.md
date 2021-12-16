@@ -1,4 +1,4 @@
 //Readme
 
-Testing function shouldBuyCar using CHAI library.
+Testing function shouldBuyCar using MOCHA and CHAI library.
 
